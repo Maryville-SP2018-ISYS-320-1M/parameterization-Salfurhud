@@ -1,17 +1,16 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s):AlfurhudSolomon
+	Date: March25, 2018
 */
 
 /*
  7. After you fixed the error, why is this an error? Note: do not just repeat Eclipse's error message,
  why did Eclipse have that error message?
  
- 
+
  
  */
-
 public class P7_FixThis {
 
 	public static void main(String[] args) {
@@ -22,6 +21,7 @@ public class P7_FixThis {
 		}
 
 	}
+
 	
 	public static void writeChar( char characterToPrint, int numOfTimesToPrint  ) {
 		for( int numOfTimesPrinted = 1; numOfTimesPrinted <= numOfTimesToPrint; numOfTimesPrinted++ ) {
